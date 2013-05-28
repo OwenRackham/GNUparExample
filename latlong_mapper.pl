@@ -3,7 +3,7 @@ use strict;
 use warnings;
 
 ########################### MAPPER SCRIPT FOR LAT LONG FILE REDUCTION##################################
-#REQUIREMENTS: The solution to the data scientist problem requires gnu parallel to be installed.
+#REQUIREMENTS: Requires gnu parallel to be installed.
 #this can be obtained by visiting: http://www.gnu.org/software/parallel/  or by using mac ports or similar
 ########################################################################################################
 #This script is intended for use with gnu parallel. The task of taking a large
